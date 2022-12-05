@@ -29,7 +29,8 @@ header section img{
     text-decoration: none;
     color: #282a3a9f;
     margin: 0;
-}.mini-notic p:hover{
+}
+.mini-notic p:hover{
     color: rgb(131, 34, 34);
 }
 .mini-notic h1 a{
@@ -90,7 +91,7 @@ header h1{
     left: 6.5%;
 }
 .img-propagandas{
-    width: 89%;
+    width: 80%;
     margin: 20px 20px 5px 20px;
     border-radius: 5px;
 }
